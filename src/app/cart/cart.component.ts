@@ -1,11 +1,11 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
-  selector: 'app-user-cart',
-  templateUrl: './user-cart.component.html',
-  styleUrls: ['./user-cart.component.css']
+  selector: 'app-cart',
+  templateUrl: './cart.component.html',
+  styleUrls: ['./cart.component.css']
 })
-export class UserCartComponent {
+export class CartComponent {
   @Input() items = [];
   @Output() itemAdded = new EventEmitter<string>();
   newItem = '';
