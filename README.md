@@ -1,6 +1,6 @@
 # AngularEssentials
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
+This project is comprised of the code I used while learning Angular through the Udemy course "Angular Essentials (Angular 2+ with TypeScript)" by Maximilian Schwarzmüller. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
 ## Development server
 
